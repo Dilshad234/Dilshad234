@@ -114,18 +114,19 @@ Full Stack Developer with hands-on experience designing, building, and deploying
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## &nbsp;📌 &nbsp;Featured Projects
 
+<!--
+  ADD SCREENSHOTS: put images in your repo, e.g. assets/p-health.png,
+  then they replace the placeholder links below. Recommended size ~640x360.
+-->
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
+<a href="#"><img src="./assets/p-health.png" alt="AI Women Health Assistant" width="100%"/></a>
+
 #### 🤖 &nbsp;AI Women Health Assistant
-*Final Year Project*
-
-AI-powered healthcare platform delivering intelligent health-risk prediction, conversational guidance, and data-driven insights for women's health awareness.
-
-**Highlights** — PCOS / Fertility / Breast Cancer risk models · RAG chatbot · PDF reports · Urdu + English · voice I/O
-
-**Role** — end-to-end: frontend, backend APIs, ML integration, auth, deployment
+AI-powered healthcare platform for intelligent health-risk prediction and guidance. *(Final Year Project)*
 
 `Next.js` `Flask` `Scikit-Learn` `Firebase`
 
@@ -135,14 +136,10 @@ AI-powered healthcare platform delivering intelligent health-risk prediction, co
 </td>
 <td valign="top" width="50%">
 
+<a href="#"><img src="./assets/p-campus.png" alt="IU Campus Management System" width="100%"/></a>
+
 #### 🏫 &nbsp;IU Campus Management System
-*Full-stack platform*
-
-Role-based platform that streamlines request handling and approvals across students, faculty, management, and admins.
-
-**Highlights** — multi-role dashboards · request workflow · approvals · real-time notifications · access control
-
-**Role** — frontend, backend, Firestore, auth, workflow logic
+Role-based platform for request handling and approvals across students, faculty, and admins.
 
 `Next.js` `Flask/FastAPI` `Firebase Auth` `Firestore`
 
@@ -154,12 +151,10 @@ Role-based platform that streamlines request handling and approvals across stude
 <tr>
 <td valign="top" width="50%">
 
+<a href="#"><img src="./assets/p-compiler.png" alt="Urdu Mini Compiler" width="100%"/></a>
+
 #### 💻 &nbsp;Urdu Mini Compiler
-*Language tooling*
-
 A compiler that processes Urdu-language syntax to demonstrate core compiler-design concepts.
-
-**Highlights** — lexical analysis · tokenization · syntax analysis · code translation
 
 `Python` `Compiler Design` `NLP`
 
@@ -168,12 +163,10 @@ A compiler that processes Urdu-language syntax to demonstrate core compiler-desi
 </td>
 <td valign="top" width="50%">
 
+<a href="#"><img src="./assets/p-network.png" alt="Enterprise Network Design" width="100%"/></a>
+
 #### 🌐 &nbsp;Enterprise Network Design
-*Networking*
-
 Enterprise-grade network infrastructure modeled and configured in Cisco Packet Tracer.
-
-**Highlights** — VLAN · VTP · trunking · OSPF routing · network security
 
 `Cisco Packet Tracer` `Routing & Switching`
 
@@ -188,13 +181,13 @@ Enterprise-grade network infrastructure modeled and configured in Cisco Packet T
 
 <br/>
 
-| Project | Highlights | Tech |
-|---|---|---|
-| Student Management System | CRUD, academic records | HTML · CSS · JS · SQL |
-| React.js Web App | Reusable components, responsive UI, API integration | React.js |
-| Database Management System | Relational design, normalization, constraints | SQL |
-| Java OOP Project | Inheritance, polymorphism, encapsulation | Java |
-| Dynamic Path Finding (AI) | BFS · DFS · A\* search · optimization | Python |
+| Project | Tech |
+|---|---|
+| Student Management System | HTML · CSS · JS · SQL |
+| React.js Web App | React.js |
+| Database Management System | SQL |
+| Java OOP Project | Java |
+| Dynamic Path Finding (AI) | Python |
 
 </details>
 
