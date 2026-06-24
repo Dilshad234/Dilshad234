@@ -31,7 +31,7 @@
 <br/>
 
 <!-- ===================== PROFILE ===================== -->
-## 🏛️ &nbsp;Profile
+## &nbsp;👨‍💻 &nbsp;About Me
 
 Full Stack Developer with hands-on experience designing, building, and deploying modern web applications end-to-end — frontend, backend, authentication, databases, REST APIs, and machine-learning integration. I focus on turning real-world requirements into reliable, production-ready software. Currently open to **internship, trainee, and junior developer** opportunities.
 
@@ -63,7 +63,7 @@ Full Stack Developer with hands-on experience designing, building, and deploying
 <br/>
 
 <!-- ===================== TECH STACK (centered, brand colors) ===================== -->
-## 🛠️ &nbsp;Tech Stack
+## &nbsp;🧰 &nbsp;Tech Stack
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -112,7 +112,7 @@ Full Stack Developer with hands-on experience designing, building, and deploying
 <br/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 &nbsp;Featured Projects
+## &nbsp;📌 &nbsp;Featured Projects
 
 <table>
 <tr>
@@ -201,7 +201,7 @@ Enterprise-grade network infrastructure modeled and configured in Cisco Packet T
 <br/>
 
 <!-- ===================== GITHUB ACTIVITY (midnight + gold theme) ===================== -->
-## 📊 &nbsp;GitHub Activity
+## &nbsp;📈 &nbsp;GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dilshad234&show_icons=true&hide_border=true&bg_color=060B1A&title_color=D4AF37&icon_color=F7E08A&text_color=C7D2FE&ring_color=D4AF37" alt="stats"/>
