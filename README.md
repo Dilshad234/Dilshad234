@@ -123,7 +123,7 @@ Full Stack Developer with hands-on experience designing, building, and deploying
 <tr>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./assets/p-health.png" alt="AI Women Health Assistant" width="100%"/></a>
+<a href="#"><img src="./p-health.png" alt="AI Women Health Assistant" width="100%"/></a>
 
 #### 🤖 &nbsp;AI Women Health Assistant
 AI-powered healthcare platform for intelligent health-risk prediction and guidance. *(Final Year Project)*
@@ -136,7 +136,7 @@ AI-powered healthcare platform for intelligent health-risk prediction and guidan
 </td>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./assets/p-campus.png" alt="IU Campus Management System" width="100%"/></a>
+<a href="#"><img src="./p-campus.png" alt="IU Campus Management System" width="100%"/></a>
 
 #### 🏫 &nbsp;IU Campus Management System
 Role-based platform for request handling and approvals across students, faculty, and admins.
@@ -151,7 +151,7 @@ Role-based platform for request handling and approvals across students, faculty,
 <tr>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./assets/p-compiler.svg" alt="Urdu Mini Compiler" width="100%"/></a>
+<a href="#"><img src="./p-compiler.svg" alt="Urdu Mini Compiler" width="100%"/></a>
 
 #### 💻 &nbsp;Urdu Mini Compiler
 A compiler that processes Urdu-language syntax to demonstrate core compiler-design concepts.
@@ -163,7 +163,7 @@ A compiler that processes Urdu-language syntax to demonstrate core compiler-desi
 </td>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./assets/p-network.svg" alt="Enterprise Network Design" width="100%"/></a>
+<a href="#"><img src="./p-network.svg" alt="Enterprise Network Design" width="100%"/></a>
 
 #### 🌐 &nbsp;Enterprise Network Design
 Enterprise-grade network infrastructure modeled and configured in Cisco Packet Tracer.
