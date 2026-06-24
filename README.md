@@ -1,30 +1,27 @@
 # 👋 Hi, I'm Dilshad Ali
 
-### 🚀 Full Stack Developer | AI & Machine Learning Enthusiast | React.js | Next.js | Python
-
+### 🚀 Full Stack Developer | AI & Machine Learning Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;React.js+%7C+Next.js+%7C+Python;Firebase+%7C+Flask+%7C+FastAPI;Always+Learning+New+Technologies" />
+
+💻 Building modern web applications using React.js, Next.js, Python, Firebase, and REST APIs
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development
+
+🎓 Final Year Computer Science Student at Iqra University
 
 ---
 
 ## 🚀 About Me
 
-🎓 Final Year Computer Science Student at Iqra University
+I am a Final Year Computer Science student with a strong interest in Full Stack Web Development, Artificial Intelligence, and Machine Learning. I enjoy building scalable web applications, developing intelligent systems, and solving real-world problems through technology.
 
-💻 Full Stack Web Developer
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-🌐 Building modern web and AI-powered applications
-
-🔥 Experienced in Frontend, Backend, APIs, Databases & Authentication
-
-🚀 Creator of AI Women Health Assistant
+Currently, I am working on AI-powered applications and modern web solutions using Next.js, Firebase, Python, and Machine Learning technologies.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### Frontend Development
 
 * React.js
 * Next.js
@@ -34,7 +31,7 @@
 * CSS3
 * Tailwind CSS
 
-### Backend
+### Backend Development
 
 * Python
 * Flask
@@ -46,7 +43,7 @@
 * Firebase Firestore
 * MySQL
 
-### Authentication
+### Authentication & Security
 
 * Firebase Authentication
 * JWT Authentication
@@ -70,48 +67,98 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Women Health Assistant
+## 🤖 AI Women Health Assistant (Final Year Project)
 
-AI-powered healthcare platform designed to assist women through intelligent health predictions and guidance.
+An AI-powered healthcare platform designed to improve women's health awareness through intelligent risk prediction and guidance.
 
-#### Features
+### Features
 
 * PCOS Prediction
 * Fertility Prediction
 * Breast Cancer Risk Assessment
-* AI Chatbot (RAG Based)
+* AI Chatbot (RAG-Based)
+* PDF Report Generation
 * Firebase Authentication
-* PDF Health Reports
 * Urdu & English Support
-* Voice Input/Output
+* Voice Input & Output
 
-#### Technologies
+### Technologies
 
-Next.js • Flask • Firebase • Machine Learning • Python
-
----
-
-### 🛒 Digi Mart E-Commerce Platform
-
-A complete e-commerce website developed using WordPress and WooCommerce.
-
-#### Features
-
-* Product Management
-* Shopping Cart
-* Responsive Design
-* Category Management
-* User Authentication
+* Next.js
+* Python Flask
+* Firebase
+* Firestore
+* Machine Learning
+* REST APIs
 
 ---
 
-### 🌐 Enterprise Network Design
+## 🏫 IU Campus Management System
 
-Cisco Packet Tracer based networking project.
+A full-stack campus management platform developed to streamline communication and request handling between students, faculty/staff, and administration.
 
-#### Features
+### User Panels
+
+* Student Dashboard
+* Faculty/Staff Dashboard
+* Management Dashboard
+* Admin Dashboard
+
+### Workflow
+
+1. Student or Faculty/Staff submits a request.
+2. Request is stored in Firestore.
+3. Admin reviews the request.
+4. Admin approves or rejects the request.
+5. Notification is sent to the requester.
+6. User can track request status through the dashboard.
+
+### Features
+
+* Multi-Role Authentication
+* Request Submission System
+* Approval & Rejection Workflow
+* Notification System
+* Real-Time Status Tracking
+* Dashboard Management
+* Firestore Integration
+
+### Technologies
+
+* Next.js
+* Python Backend
+* Firebase Authentication
+* Firestore
+* REST APIs
+
+---
+
+## 💻 Urdu Mini Compiler
+
+A compiler project designed to process Urdu language syntax and demonstrate compiler design concepts.
+
+### Features
+
+* Lexical Analysis
+* Tokenization
+* Syntax Analysis
+* Code Translation
+
+### Technologies
+
+* Python
+* Compiler Design
+* NLP Concepts
+
+---
+
+## 🌐 Enterprise Network Design
+
+A networking project developed using Cisco Packet Tracer to implement enterprise-level network infrastructure.
+
+### Features
 
 * VLAN Configuration
 * VTP Implementation
@@ -119,22 +166,56 @@ Cisco Packet Tracer based networking project.
 * OSPF Routing
 * Network Security
 
----
+### Technologies
 
-### 💻 Urdu Mini Compiler
-
-Compiler project designed to process Urdu language syntax.
-
-#### Features
-
-* Lexical Analysis
-* Tokenization
-* Syntax Analysis
-* Code Translation
+* Cisco Packet Tracer
+* Routing & Switching
+* VLAN
+* VTP
+* OSPF
 
 ---
 
-## 🧰 Technical Skills
+# 📂 Additional Projects
+
+## Student Management System
+
+* HTML
+* CSS
+* JavaScript
+* SQL
+* CRUD Operations
+
+## React.js Web Application
+
+* Reusable Components
+* Responsive UI
+* API Integration
+
+## Database Management System
+
+* SQL Queries
+* Relational Database Design
+* Normalization
+* Constraints
+
+## Java OOP Project
+
+* Inheritance
+* Polymorphism
+* Encapsulation
+* Object-Oriented Programming
+
+## Dynamic Path Finding Using AI
+
+* BFS Algorithm
+* DFS Algorithm
+* A* Search Algorithm
+* Path Optimization
+
+---
+
+# 💼 Technical Skills
 
 ### Programming Languages
 
@@ -149,12 +230,17 @@ Compiler project designed to process Urdu language syntax.
 
 * React.js
 * Next.js
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend Development
+
 * Flask
 * FastAPI
 * REST APIs
-* Tailwind CSS
 
-### Databases
+### Database Management
 
 * Firebase Firestore
 * MySQL
@@ -164,23 +250,15 @@ Compiler project designed to process Urdu language syntax.
 * Firebase Authentication
 * JWT Authentication
 
-### AI & ML
+### AI & Machine Learning
 
 * Machine Learning
 * Predictive Models
-* Data Processing
+* Data Analysis
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilshad234\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad234\&layout=compact\&theme=radical)
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 * Advanced Next.js
 * FastAPI Microservices
@@ -190,22 +268,24 @@ Compiler project designed to process Urdu language syntax.
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-To build innovative software solutions using modern web technologies, Artificial Intelligence, and scalable backend systems while continuously learning and contributing to impactful projects.
+To become a skilled Full Stack and AI Developer by building innovative software solutions, learning modern technologies, and contributing to impactful real-world projects.
 
 ---
 
-## 📫 Connect With Me
-
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-
-💼 LinkedIn: Your LinkedIn Profile
-
-🌐 Portfolio: Your Portfolio Website
+# 📫 Connect With Me
 
 📍 Pakistan
 
+📧 [bhuttodilshad4@gmail.com](mailto:bhuttodilshad4@gmail.com)
+
+💼 LinkedIn: Add Your LinkedIn Profile
+
+🌐 Portfolio: Add Your Portfolio Website
+
 ---
 
-### ⭐ “Code • Learn • Build • Improve • Repeat”
+⭐ Turning Ideas Into Real-World Software Solutions
+
+⭐ Open To Internship & Full Stack Development Opportunities
