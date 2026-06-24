@@ -32,28 +32,15 @@
 <!-- ===================== ABOUT ME (CODE LOOK) ===================== -->
 ## 🚀 About Me
 
-```typescript
-const dilshad: Developer = {
-    name:        "Dilshad Ali",
-    role:        "Full Stack Developer",
-    education:   "BS Computer Science @ Iqra University (Final Year)",
-    location:    "Pakistan 🇵🇰",
-    focus:       ["Web Development", "AI / Machine Learning"],
-    stack:       ["Next.js", "React", "Python", "Flask", "FastAPI", "Firebase"],
-    building:    "AI-powered, real-world web applications",
-    motto:       "Build complete products, not just assignments.",
-    openToWork:  true,
-};
-```
+I'm a final-year Computer Science student who builds **complete applications end-to-end** — frontend, backend, authentication, databases, REST APIs, and ML integration. I like turning real problems into working software and actually shipping it.
 
-```python
-while alive:
-    keep_learning()
-    build_real_projects()
-    ship_to_production()   # 🚀
-```
-
-I'm a final-year CS student who builds **complete applications end-to-end** — frontend, backend, authentication, databases, REST APIs, and ML integration. I like turning real problems into working software and actually shipping it.
+- 🎓 &nbsp; **BS Computer Science** @ Iqra University *(Final Year)*
+- 💼 &nbsp; **Full Stack Developer** with hands-on AI & Machine Learning project experience
+- 🔭 &nbsp; Currently building **AI-powered, real-world web applications**
+- 🌱 &nbsp; Learning **System Design**, **FastAPI Microservices** & **Cloud Deployment**
+- 🤝 &nbsp; Open to **Internship, Trainee & Junior Developer** roles
+- 💬 &nbsp; Ask me about **Next.js, Python, Firebase & ML integration**
+- ⚡ &nbsp; *Fun fact:* I'd rather ship one complete product than ten unfinished demos
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
