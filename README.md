@@ -151,7 +151,7 @@ Role-based platform for request handling and approvals across students, faculty,
 <tr>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./assets/p-compiler.png" alt="Urdu Mini Compiler" width="100%"/></a>
+<a href="#"><img src="./assets/p-compiler.svg" alt="Urdu Mini Compiler" width="100%"/></a>
 
 #### 💻 &nbsp;Urdu Mini Compiler
 A compiler that processes Urdu-language syntax to demonstrate core compiler-design concepts.
@@ -163,7 +163,7 @@ A compiler that processes Urdu-language syntax to demonstrate core compiler-desi
 </td>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./assets/p-network.png" alt="Enterprise Network Design" width="100%"/></a>
+<a href="#"><img src="./assets/p-network.svg" alt="Enterprise Network Design" width="100%"/></a>
 
 #### 🌐 &nbsp;Enterprise Network Design
 Enterprise-grade network infrastructure modeled and configured in Cisco Packet Tracer.
