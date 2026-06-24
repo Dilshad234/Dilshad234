@@ -2,182 +2,223 @@
   ============================================================
   GITHUB PROFILE README  -  Dilshad Ali  (@Dilshad234)
   ------------------------------------------------------------
-  Repo must be named EXACTLY: Dilshad234
-  File must be named: README.md
-  Update the LinkedIn / Portfolio links in the Connect section.
+  Repo name must equal your username: Dilshad234
+  File name: README.md
+  TODO: replace LINKEDIN-URL, PORTFOLIO-URL, and the project
+        repo/demo links marked with #.
   ============================================================
 -->
 
-<!-- ===================== HEADER (RELIABLE) ===================== -->
-<h1 align="center">Hi 👋, I'm Dilshad Ali</h1>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Dilshad Ali</h1>
+<p align="center">
+  <b>Full&nbsp;Stack&nbsp;Developer</b> &nbsp;·&nbsp; AI&nbsp;&amp;&nbsp;Machine&nbsp;Learning &nbsp;·&nbsp; Final&nbsp;Year&nbsp;CS&nbsp;@&nbsp;Iqra&nbsp;University
+</p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/Dilshad234">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;I+ship+complete+products%2C+not+assignments+%F0%9F%92%BB;Final+Year+CS+Student+%40+Iqra+University+%F0%9F%8E%93" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=Designing+and+shipping+complete+web+applications;Building+AI-powered%2C+production-ready+products;Frontend+%C2%B7+Backend+%C2%B7+APIs+%C2%B7+Databases+%C2%B7+ML" alt="Typing SVG"/>
   </a>
-</div>
+</p>
 
-<!-- ===================== BADGES ===================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dilshad234&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-22C55E?style=for-the-badge" alt="open to work"/>
-  <img src="https://img.shields.io/badge/Pakistan-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
-</div>
+<p align="center">
+  <a href="mailto:bhuttodilshad4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Dilshad234&label=Profile%20views&color=6366F1&style=flat-square"/>
+</p>
 
-<br/>
+---
 
-<!-- ===================== ABOUT ME (CODE LOOK) ===================== -->
-## 🚀 About Me
+<!-- ===================== SUMMARY ===================== -->
+### Profile
 
-I'm a final-year Computer Science student who builds **complete applications end-to-end** — frontend, backend, authentication, databases, REST APIs, and ML integration. I like turning real problems into working software and actually shipping it.
+Full Stack Developer with hands-on experience designing, building, and deploying modern web applications end-to-end — frontend, backend, authentication, databases, REST APIs, and machine-learning integration. I focus on turning real-world requirements into reliable, production-ready software. Currently open to **internship, trainee, and junior developer** opportunities.
 
-- 🎓 &nbsp; **BS Computer Science** @ Iqra University *(Final Year)*
-- 💼 &nbsp; **Full Stack Developer** with hands-on AI & Machine Learning project experience
-- 🔭 &nbsp; Currently building **AI-powered, real-world web applications**
-- 🌱 &nbsp; Learning **System Design**, **FastAPI Microservices** & **Cloud Deployment**
-- 🤝 &nbsp; Open to **Internship, Trainee & Junior Developer** roles
-- 💬 &nbsp; Ask me about **Next.js, Python, Firebase & ML integration**
-- ⚡ &nbsp; *Fun fact:* I'd rather ship one complete product than ten unfinished demos
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+**What I do**
+- Build full-stack web apps with Next.js & React
+- Design and implement REST APIs (Flask / FastAPI)
+- Integrate authentication, databases & cloud services
+- Apply machine learning to real product features
+- Ship and maintain deployed applications
+
+</td>
+<td valign="top" width="50%">
+
+**At a glance**
+- 🎓 BS Computer Science, Iqra University *(final year)*
+- 💼 Full Stack Developer with AI/ML project experience
+- 🌍 Based in Pakistan · available remotely
+- 🌱 Deepening System Design & cloud architecture
+- 📫 bhuttodilshad4@gmail.com
+
+</td>
+</tr>
+</table>
+
+---
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+### Tech Stack
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+**Backend & APIs**
+&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-#### Database & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+**Data & Cloud**
+&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-#### AI / ML
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**AI / ML & Tools**
+&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+---
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
-## 🏆 Featured Projects
+### Featured Projects
 
-### 🤖 AI Women Health Assistant — *Final Year Project*
-> An AI-powered healthcare platform that improves women's health awareness through intelligent risk prediction and data-driven guidance.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- **Features:** PCOS / Fertility / Breast Cancer risk assessment · RAG-based AI chatbot · PDF report generation · Urdu + English support · voice input/output
-- **My role:** Frontend · backend APIs · ML model integration · Firebase Auth · Firestore · deployment
-- **Stack:** `Next.js` · `Python (Flask)` · `Scikit-Learn` · `Firebase` · `Cloud Firestore` · `REST APIs`
+#### 🤖 AI Women Health Assistant
+*Final Year Project*
 
-### 🏫 IU Campus Management System
-> A full-stack platform that streamlines request handling between students, faculty, management, and admins.
+AI-powered healthcare platform delivering intelligent health-risk prediction, conversational guidance, and data-driven insights for women's health awareness.
 
-- **Features:** Role-based dashboards · request submission & tracking · approval workflow · real-time notifications · secure access control
-- **My role:** Frontend · backend · Firestore integration · authentication · workflow & dashboard logic
-- **Stack:** `Next.js` · `Python (Flask/FastAPI)` · `Firebase Auth` · `Cloud Firestore` · `REST APIs`
+**Highlights** — PCOS / Fertility / Breast Cancer risk models · RAG-based AI chatbot · PDF reports · Urdu + English · voice I/O
 
-### 💻 Urdu Mini Compiler
-> A compiler that processes Urdu-language syntax to demonstrate compiler-design fundamentals.
+**Role** — end-to-end: frontend, backend APIs, ML integration, auth, deployment
 
-- **Features:** Lexical analysis · tokenization · syntax analysis · code translation
-- **Stack:** `Python` · `Compiler Design` · `NLP Concepts`
+`Next.js` `Flask` `Scikit-Learn` `Firebase` `Firestore`
 
-### 🌐 Enterprise Network Design
-> Enterprise-level network infrastructure built in Cisco Packet Tracer.
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-- **Features:** VLAN configuration · VTP · trunking · OSPF routing · network security
-- **Stack:** `Cisco Packet Tracer` · `Routing & Switching`
+</td>
+<td valign="top" width="50%">
+
+#### 🏫 IU Campus Management System
+*Full-stack platform*
+
+Role-based platform that streamlines request handling and approvals across students, faculty, management, and admins.
+
+**Highlights** — multi-role dashboards · request workflow · approvals · real-time notifications · secure access control
+
+**Role** — frontend, backend, Firestore, auth, workflow & dashboard logic
+
+`Next.js` `Flask/FastAPI` `Firebase Auth` `Firestore`
+
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 💻 Urdu Mini Compiler
+*Language tooling*
+
+A compiler that processes Urdu-language syntax to demonstrate core compiler-design concepts.
+
+**Highlights** — lexical analysis · tokenization · syntax analysis · code translation
+
+`Python` `Compiler Design` `NLP`
+
+<a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td valign="top" width="50%">
+
+#### 🌐 Enterprise Network Design
+*Networking*
+
+Enterprise-grade network infrastructure modeled and configured in Cisco Packet Tracer.
+
+**Highlights** — VLAN · VTP · trunking · OSPF routing · network security
+
+`Cisco Packet Tracer` `Routing & Switching`
+
+<a href="#"><img src="https://img.shields.io/badge/Details-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary>📂 <b>More projects</b> (click to expand)</summary>
+<summary><b>More projects</b></summary>
 
 <br/>
 
 | Project | Highlights | Tech |
 |---|---|---|
-| **Student Management System** | CRUD operations, academic records | HTML, CSS, JS, SQL |
-| **React.js Web App** | Reusable components, responsive UI, API integration | React.js |
-| **Database Management System** | Relational design, normalization, constraints | SQL |
-| **Java OOP Project** | Inheritance, polymorphism, encapsulation | Java |
-| **Dynamic Path Finding (AI)** | BFS, DFS, A\* search, path optimization | Python |
+| Student Management System | CRUD, academic records | HTML · CSS · JS · SQL |
+| React.js Web App | Reusable components, responsive UI, API integration | React.js |
+| Database Management System | Relational design, normalization, constraints | SQL |
+| Java OOP Project | Inheritance, polymorphism, encapsulation | Java |
+| Dynamic Path Finding (AI) | BFS · DFS · A\* search · path optimization | Python |
 
 </details>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+---
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+### GitHub Activity
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dilshad234&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="170" src="https://github-readme-streak-stats.demolab.com/?user=Dilshad234&theme=tokyonight&hide_border=true" alt="streak"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dilshad234&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&card_width=480" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=300" alt="top languages"/>
+</p>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=Dilshad234&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilshad234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshad234&theme=tokyo-night&hide_border=true&area=true&height=300" alt="activity graph"/>
+</p>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshad234&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</div>
+---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+<!-- ===================== CONTACT ===================== -->
+<p align="center">
+  <b>Let's build something.</b><br/>
+  <a href="mailto:bhuttodilshad4@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/LINKEDIN-URL">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://PORTFOLIO-URL">Portfolio</a>
+</p>
 
-<!-- ===================== LEARNING & GOAL ===================== -->
-## 🌱 Currently Learning
-
-`Advanced Next.js` · `FastAPI Microservices` · `AI Integration in Web Apps` · `Cloud Deployment & Scalability` · `System Design`
-
-## 🎯 Career Objective
-
-To grow as a **Full Stack & AI Developer** by building innovative, impactful software and contributing to real-world products. **Open to Internship, Trainee, and Junior Developer roles.**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<!-- ===================== CONNECT ===================== -->
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuttodilshad4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dilshad234)
-
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
-  <br/>
-  <sub>⭐ Thanks for visiting — feel free to explore my repositories and connect!</sub>
-</div>
+<p align="center"><sub>Open to internship, trainee &amp; junior developer roles.</sub></p>
