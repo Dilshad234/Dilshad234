@@ -1,0 +1,67 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.45" stop-color="#1E1B4B"/>
+      <stop offset="0.8" stop-color="#312E81"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#FFFFFF" fill-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#dots)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#glow)"/>
+
+  <!-- terminal prompt accent -->
+  <text x="70" y="92" fill="#22D3EE" font-size="20" font-family="'Fira Code', Consolas, monospace" font-weight="600">~/dilshad-ali $ whoami</text>
+
+  <!-- name -->
+  <text x="68" y="172" fill="#FFFFFF" font-size="74" font-weight="800" letter-spacing="-1">Dilshad Ali</text>
+
+  <!-- accent underline -->
+  <rect x="72" y="192" width="180" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <!-- role -->
+  <text x="72" y="234" fill="#C7D2FE" font-size="26" font-weight="500">Full Stack Developer &#160;&#183;&#160; AI &amp; Machine Learning</text>
+
+  <!-- subline -->
+  <text x="72" y="266" fill="#94A3B8" font-size="17">Designing and shipping complete, production-ready web applications.</text>
+
+  <!-- tech pills -->
+  <g font-size="15" font-weight="600" font-family="'Fira Code', Consolas, monospace">
+    <g>
+      <rect x="72" y="284" width="92" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.10"/>
+      <text x="118" y="301" fill="#E0E7FF" text-anchor="middle">Next.js</text>
+    </g>
+    <g>
+      <rect x="172" y="284" width="84" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.10"/>
+      <text x="214" y="301" fill="#E0E7FF" text-anchor="middle">Python</text>
+    </g>
+    <g>
+      <rect x="264" y="284" width="76" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.10"/>
+      <text x="302" y="301" fill="#E0E7FF" text-anchor="middle">Flask</text>
+    </g>
+    <g>
+      <rect x="348" y="284" width="96" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.10"/>
+      <text x="396" y="301" fill="#E0E7FF" text-anchor="middle">Firebase</text>
+    </g>
+    <g>
+      <rect x="452" y="284" width="116" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.10"/>
+      <text x="510" y="301" fill="#E0E7FF" text-anchor="middle">Scikit-Learn</text>
+    </g>
+  </g>
+
+  <!-- decorative code bracket on the right -->
+  <text x="1090" y="200" fill="#FFFFFF" fill-opacity="0.07" font-size="240" font-weight="800" font-family="'Fira Code', monospace" text-anchor="middle">&lt;/&gt;</text>
+</svg>
