@@ -14,7 +14,7 @@
 
 <!-- ===================== CUSTOM BANNER (self-hosted, reliable) ===================== -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Dilshad Ali — Full Stack Developer" width="100%"/>
+  <img src="./banner.svg" alt="Dilshad Ali — Full Stack Developer" width="100%"/>
 </p>
 
 <!-- ===================== ANIMATED TAGLINE ===================== -->
