@@ -1,291 +1,202 @@
-# 👋 Hi, I'm Dilshad Ali
+<!--
+  ============================================================
+  GITHUB PROFILE README  -  Dilshad Ali
+  ------------------------------------------------------------
+  HOW TO USE:
+  1. Create a repo named EXACTLY your GitHub username
+     (e.g. repo "DilshadAli" for github.com/DilshadAli).
+  2. Put this file in it as README.md.
+  3. Find-and-replace every "DilshadAli" below with your real
+     GitHub username, and update the LinkedIn / portfolio links.
+  ============================================================
+-->
 
-### 🚀 Full Stack Developer | AI & Machine Learning Enthusiast
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;React.js+%7C+Next.js+%7C+Python;Firebase+%7C+Flask+%7C+FastAPI;Always+Learning+New+Technologies" />
+<!-- ===================== ANIMATED HEADER WAVE ===================== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=200&section=header&text=Dilshad%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=18" alt="header"/>
+</div>
 
-💻 Building modern web applications using React.js, Next.js, Python, Firebase, and REST APIs
+<!-- ===================== TYPING ANIMATION ===================== -->
+<div align="center">
+  <a href="https://github.com/DilshadAli">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+real-world+web+applications+%F0%9F%92%BB;Final+Year+CS+Student+%40+Iqra+University+%F0%9F%8E%93" alt="Typing SVG"/>
+  </a>
+</div>
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development
+<!-- ===================== PROFILE STATS BADGES ===================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DilshadAli&label=Profile%20Views&color=6366F1&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20%26%20Junior%20Roles-22C55E?style=flat-square" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-0EA5E9?style=flat-square" alt="location"/>
+</div>
 
-🎓 Final Year Computer Science Student at Iqra University
+<br/>
 
----
-
+<!-- ===================== ABOUT ME ===================== -->
 ## 🚀 About Me
 
-I am a Final Year Computer Science student with a strong interest in Full Stack Web Development, Artificial Intelligence, and Machine Learning. I enjoy building scalable web applications, developing intelligent systems, and solving real-world problems through technology.
+```javascript
+const dilshad = {
+    role: "Full Stack Developer",
+    focus: ["Web Development", "AI / Machine Learning"],
+    education: "BS Computer Science @ Iqra University (Final Year)",
+    stack: ["Next.js", "React", "Python", "Flask", "FastAPI", "Firebase"],
+    currentlyBuilding: "AI-powered, real-world web applications",
+    motto: "Build complete products, not just assignments."
+};
+```
 
-Currently, I am working on AI-powered applications and modern web solutions using Next.js, Firebase, Python, and Machine Learning technologies.
+I'm a final-year Computer Science student who builds **complete applications end-to-end** — frontend, backend, authentication, databases, REST APIs, and machine learning integration. I enjoy turning real-world problems into working software and shipping it to production.
 
----
+<br/>
 
-## 🛠 Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-### Frontend Development
+**Languages**
 
-* React.js
-* Next.js
-* JavaScript
-* TypeScript
-* HTML5
-* CSS3
-* Tailwind CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Backend Development
+**Frontend**
 
-* Python
-* Flask
-* FastAPI
-* REST APIs
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Database
+**Backend & APIs**
 
-* Firebase Firestore
-* MySQL
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Authentication & Security
+**Database & Cloud**
 
-* Firebase Authentication
-* JWT Authentication
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-### AI & Machine Learning
+**AI / ML**
 
-* Machine Learning
-* Logistic Regression
-* Decision Trees
-* Data Analysis
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Platforms
+**Tools**
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Firebase
-* Vercel
-* Railway
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<br/>
 
-# 🚀 Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🏆 Featured Projects
 
-## 🤖 AI Women Health Assistant (Final Year Project)
+### 🤖 AI Women Health Assistant — *Final Year Project*
+> An AI-powered healthcare platform that improves women's health awareness through intelligent risk prediction and data-driven guidance.
 
-An AI-powered healthcare platform designed to improve women's health awareness through intelligent risk prediction and guidance.
+- **Features:** PCOS / Fertility / Breast Cancer risk assessment, RAG-based AI chatbot, PDF report generation, Urdu + English support, voice input/output
+- **My role:** Frontend, backend APIs, ML model integration, Firebase Auth, Firestore, deployment
+- **Stack:** `Next.js` · `Python (Flask)` · `Scikit-Learn` · `Firebase` · `Cloud Firestore` · `REST APIs`
 
-### Features
+### 🏫 IU Campus Management System
+> A full-stack platform that streamlines request handling between students, faculty, management, and admins.
 
-* PCOS Prediction
-* Fertility Prediction
-* Breast Cancer Risk Assessment
-* AI Chatbot (RAG-Based)
-* PDF Report Generation
-* Firebase Authentication
-* Urdu & English Support
-* Voice Input & Output
+- **Features:** Role-based dashboards, request submission & tracking, approval workflow, real-time notifications, secure access control
+- **My role:** Frontend, backend, Firestore integration, authentication, workflow & dashboard logic
+- **Stack:** `Next.js` · `Python (Flask/FastAPI)` · `Firebase Auth` · `Cloud Firestore` · `REST APIs`
 
-### Technologies
+### 💻 Urdu Mini Compiler
+> A compiler that processes Urdu-language syntax to demonstrate compiler-design fundamentals.
 
-* Next.js
-* Python Flask
-* Firebase
-* Firestore
-* Machine Learning
-* REST APIs
+- **Features:** Lexical analysis, tokenization, syntax analysis, code translation
+- **Stack:** `Python` · `Compiler Design` · `NLP Concepts`
 
----
+### 🌐 Enterprise Network Design
+> Enterprise-level network infrastructure built in Cisco Packet Tracer.
 
-## 🏫 IU Campus Management System
+- **Features:** VLAN configuration, VTP, trunking, OSPF routing, network security
+- **Stack:** `Cisco Packet Tracer` · `Routing & Switching`
 
-A full-stack campus management platform developed to streamline communication and request handling between students, faculty/staff, and administration.
+<details>
+<summary>📂 <b>More projects</b> (click to expand)</summary>
 
-### User Panels
+<br/>
 
-* Student Dashboard
-* Faculty/Staff Dashboard
-* Management Dashboard
-* Admin Dashboard
+| Project | Highlights | Tech |
+|---|---|---|
+| **Student Management System** | CRUD operations, academic records | HTML, CSS, JS, SQL |
+| **React.js Web App** | Reusable components, responsive UI, API integration | React.js |
+| **Database Management System** | Relational design, normalization, constraints | SQL |
+| **Java OOP Project** | Inheritance, polymorphism, encapsulation | Java |
+| **Dynamic Path Finding (AI)** | BFS, DFS, A\* search, path optimization | Python |
 
-### Workflow
+</details>
 
-1. Student or Faculty/Staff submits a request.
-2. Request is stored in Firestore.
-3. Admin reviews the request.
-4. Admin approves or rejects the request.
-5. Notification is sent to the requester.
-6. User can track request status through the dashboard.
+<br/>
 
-### Features
+<!-- ===================== GITHUB STATS (auto-updating, animated) ===================== -->
+## 📊 GitHub Stats
 
-* Multi-Role Authentication
-* Request Submission System
-* Approval & Rejection Workflow
-* Notification System
-* Real-Time Status Tracking
-* Dashboard Management
-* Firestore Integration
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DilshadAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+  <img height="170" src="https://github-readme-streak-stats.demolab.com/?user=DilshadAli&theme=tokyonight&hide_border=true" alt="streak"/>
+</div>
 
-### Technologies
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshadAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+</div>
 
-* Next.js
-* Python Backend
-* Firebase Authentication
-* Firestore
-* REST APIs
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DilshadAli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+</div>
 
----
+<!-- ===================== CONTRIBUTION GRAPH (animated line) ===================== -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DilshadAli&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+</div>
 
-## 💻 Urdu Mini Compiler
+<br/>
 
-A compiler project designed to process Urdu language syntax and demonstrate compiler design concepts.
+<!-- ===================== CURRENTLY LEARNING & GOAL ===================== -->
+## 🌱 Currently Learning
 
-### Features
+`Advanced Next.js` · `FastAPI Microservices` · `AI Integration in Web Apps` · `Cloud Deployment & Scalability` · `System Design`
 
-* Lexical Analysis
-* Tokenization
-* Syntax Analysis
-* Code Translation
+## 🎯 Career Objective
 
-### Technologies
+To grow as a **Full Stack & AI Developer** by building innovative, impactful software and contributing to real-world products. **Open to Internship, Trainee, and Junior Developer roles.**
 
-* Python
-* Compiler Design
-* NLP Concepts
+<br/>
 
----
+<!-- ===================== CONNECT ===================== -->
+## 📫 Connect With Me
 
-## 🌐 Enterprise Network Design
+<div align="center">
 
-A networking project developed using Cisco Packet Tracer to implement enterprise-level network infrastructure.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuttodilshad4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DilshadAli)
 
-### Features
+</div>
 
-* VLAN Configuration
-* VTP Implementation
-* Trunking
-* OSPF Routing
-* Network Security
+<!-- ===================== FOOTER WAVE ===================== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=120&section=footer"/>
+</div>
 
-### Technologies
-
-* Cisco Packet Tracer
-* Routing & Switching
-* VLAN
-* VTP
-* OSPF
-
----
-
-# 📂 Additional Projects
-
-## Student Management System
-
-* HTML
-* CSS
-* JavaScript
-* SQL
-* CRUD Operations
-
-## React.js Web Application
-
-* Reusable Components
-* Responsive UI
-* API Integration
-
-## Database Management System
-
-* SQL Queries
-* Relational Database Design
-* Normalization
-* Constraints
-
-## Java OOP Project
-
-* Inheritance
-* Polymorphism
-* Encapsulation
-* Object-Oriented Programming
-
-## Dynamic Path Finding Using AI
-
-* BFS Algorithm
-* DFS Algorithm
-* A* Search Algorithm
-* Path Optimization
-
----
-
-# 💼 Technical Skills
-
-### Programming Languages
-
-* Python
-* JavaScript
-* TypeScript
-* Java
-* C
-* C++
-
-### Web Development
-
-* React.js
-* Next.js
-* HTML5
-* CSS3
-* Tailwind CSS
-
-### Backend Development
-
-* Flask
-* FastAPI
-* REST APIs
-
-### Database Management
-
-* Firebase Firestore
-* MySQL
-
-### Authentication
-
-* Firebase Authentication
-* JWT Authentication
-
-### AI & Machine Learning
-
-* Machine Learning
-* Predictive Models
-* Data Analysis
-
----
-
-# 🌱 Currently Learning
-
-* Advanced Next.js
-* FastAPI Microservices
-* AI Integration in Web Applications
-* Cloud Deployment
-* System Design
-
----
-
-# 🎯 Career Objective
-
-To become a skilled Full Stack and AI Developer by building innovative software solutions, learning modern technologies, and contributing to impactful real-world projects.
-
----
-
-# 📫 Connect With Me
-
-📍 Pakistan
-
-📧 [bhuttodilshad4@gmail.com](mailto:bhuttodilshad4@gmail.com)
-
-💼 LinkedIn: Add Your LinkedIn Profile
-
-🌐 Portfolio: Add Your Portfolio Website
-
----
-
-⭐ Turning Ideas Into Real-World Software Solutions
-
-⭐ Open To Internship & Full Stack Development Opportunities
+<div align="center">
+  <sub>⭐ Thanks for visiting — feel free to check out my repositories and connect!</sub>
+</div>
