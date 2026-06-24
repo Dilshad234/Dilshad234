@@ -121,7 +121,7 @@ Full Stack Developer with hands-on experience designing, building, and deploying
 <a href="https://dsu-women-ai.vercel.app"><img src="./p-health.png" alt="AI Women Health Assistant" width="100%"/></a>
 
 #### 🤖 &nbsp;AI Women Health Assistant
-AI-powered healthcare platform for intelligent health-risk prediction and guidance. *(Final Year Project)*
+AI healthcare platform with PCOS, fertility & breast-cancer risk assessment, a RAG chatbot, and bilingual (Urdu/English) PDF reports. *(Final Year Project)*
 
 `Next.js` `Flask` `Scikit-Learn` `Firebase`
 
@@ -133,7 +133,7 @@ AI-powered healthcare platform for intelligent health-risk prediction and guidan
 <a href="https://iucampus-system.vercel.app"><img src="./p-campus.png" alt="IU Campus Management System" width="100%"/></a>
 
 #### 🏫 &nbsp;IU Campus Management System
-Role-based platform for request handling and approvals across students, faculty, and admins.
+Role-based platform with multi-role dashboards, request workflows, approvals, and real-time notifications across students, faculty, and admins.
 
 `Next.js` `Flask/FastAPI` `Firebase Auth` `Firestore`
 
