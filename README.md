@@ -123,7 +123,7 @@ Full Stack Developer with hands-on experience designing, building, and deploying
 #### 🤖 &nbsp;AI Women Health Assistant
 AI healthcare platform with PCOS, fertility & breast-cancer risk assessment, a RAG chatbot, and bilingual (Urdu/English) PDF reports. *(Final Year Project)*
 
-`Next.js` `Flask` `Scikit-Learn` `Firebase`
+`Next.js` `Flask` `Scikit-Learn` `Firebase Auth` `Firestore`
 
 <a href="https://dsu-women-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D4AF37?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
@@ -133,7 +133,7 @@ AI healthcare platform with PCOS, fertility & breast-cancer risk assessment, a R
 <a href="https://iucampus-system.vercel.app"><img src="./p-campus.png" alt="IU Campus Management System" width="100%"/></a>
 
 #### 🏫 &nbsp;IU Campus Management System
-Role-based platform with multi-role dashboards, request workflows, approvals, and real-time notifications across students, faculty, and admins.
+Role-based platform with multi-role dashboards, maintenance request workflows, approvals, and real-time notifications across students, faculty, maintenance teams, and admins.
 
 `Next.js` `Flask/FastAPI` `Firebase Auth` `Firestore`
 
