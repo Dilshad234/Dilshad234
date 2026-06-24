@@ -8,10 +8,8 @@
   ============================================================
 -->
 
-<!-- ===================== ANIMATED HEADER WAVE ===================== -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=210&section=header&text=Dilshad%20Ali&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=56&descSize=18" alt="header"/>
-</div>
+<!-- ===================== HEADER (RELIABLE) ===================== -->
+<h1 align="center">Hi 👋, I'm Dilshad Ali</h1>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
@@ -178,8 +176,8 @@ To grow as a **Full Stack & AI Developer** by building innovative, impactful sof
 
 </div>
 
-<!-- ===================== FOOTER WAVE ===================== -->
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=120&section=footer"/>
+  <br/>
   <sub>⭐ Thanks for visiting — feel free to explore my repositories and connect!</sub>
 </div>
