@@ -114,63 +114,52 @@ Full Stack Developer with hands-on experience designing, building, and deploying
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## &nbsp;📌 &nbsp;Featured Projects
 
-<!--
-  ADD SCREENSHOTS: put images in your repo, e.g. assets/p-health.png,
-  then they replace the placeholder links below. Recommended size ~640x360.
--->
-
 <table>
 <tr>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./p-health.png" alt="AI Women Health Assistant" width="100%"/></a>
+<a href="https://dsu-women-ai.vercel.app"><img src="./p-health.png" alt="AI Women Health Assistant" width="100%"/></a>
 
 #### 🤖 &nbsp;AI Women Health Assistant
 AI-powered healthcare platform for intelligent health-risk prediction and guidance. *(Final Year Project)*
 
 `Next.js` `Flask` `Scikit-Learn` `Firebase`
 
-<a href="#"><img src="https://img.shields.io/badge/View_Code-001F54?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-D4AF37?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://dsu-women-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D4AF37?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./p-campus.png" alt="IU Campus Management System" width="100%"/></a>
+<a href="https://iucampus-system.vercel.app"><img src="./p-campus.png" alt="IU Campus Management System" width="100%"/></a>
 
 #### 🏫 &nbsp;IU Campus Management System
 Role-based platform for request handling and approvals across students, faculty, and admins.
 
 `Next.js` `Flask/FastAPI` `Firebase Auth` `Firestore`
 
-<a href="#"><img src="https://img.shields.io/badge/View_Code-001F54?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-D4AF37?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://iucampus-system.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-D4AF37?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./p-compiler.svg" alt="Urdu Mini Compiler" width="100%"/></a>
+<img src="./p-compiler.svg" alt="Urdu Mini Compiler" width="100%"/>
 
 #### 💻 &nbsp;Urdu Mini Compiler
 A compiler that processes Urdu-language syntax to demonstrate core compiler-design concepts.
 
 `Python` `Compiler Design` `NLP`
 
-<a href="#"><img src="https://img.shields.io/badge/View_Code-001F54?style=for-the-badge&logo=github&logoColor=white"/></a>
-
 </td>
 <td valign="top" width="50%">
 
-<a href="#"><img src="./p-network.svg" alt="Enterprise Network Design" width="100%"/></a>
+<img src="./p-network.svg" alt="Enterprise Network Design" width="100%"/>
 
 #### 🌐 &nbsp;Enterprise Network Design
 Enterprise-grade network infrastructure modeled and configured in Cisco Packet Tracer.
 
 `Cisco Packet Tracer` `Routing & Switching`
-
-<a href="#"><img src="https://img.shields.io/badge/Details-001F54?style=for-the-badge&logo=cisco&logoColor=white"/></a>
 
 </td>
 </tr>
